@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hey, I'm [Name]
+### Hey, I'm Thierry Schuepbach
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Internal+tools+and+portals;Python+%2B+Rust;Information+security+%28ISMS%29;macOS+%2B+Ghostty+%2B+Claude;Shipping+where+it%27s+needed" alt="Typing" />
 
