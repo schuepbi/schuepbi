@@ -6,7 +6,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=schuepbi&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=schuepbi&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 **Python · Rust · SQLite · Git · macOS · Ghostty · Claude**
 
