@@ -6,8 +6,7 @@
 
 <br/>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=DEINUSERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 **Python · Rust · SQLite · Git · macOS · Ghostty · Claude**
 
