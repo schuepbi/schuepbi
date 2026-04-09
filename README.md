@@ -5,7 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3600&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Security+%C3%97+Digitalisation+%C3%97+Product;Head+of+Digitalisation+%C2%B7+ISMS+%C2%B7+Product;Internal+systems+for+ops%2C+HR+%26+leadership;Python+%2B+Rust+%C2%B7+macOS+%C2%B7+Ghostty;AI-assisted+%E2%80%94+human+oversight+always" alt="Typing" />
 
 <br/>
-
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+</p>
 **Python · Rust · SQLite · Git · macOS · Ghostty · Claude**
 
 </div>
