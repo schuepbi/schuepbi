@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hey, I'm Thierry Schuepbach
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3600&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Security+%C3%97+Digitalisation+%C3%97+Product;Head+of+Digitalisation+%C2%B7+ISMS+%C2%B7+Product;Internal+systems+for+ops%2C+HR+%26+leadership;Python+%2B+Rust+%C2%B7+macOS+%C2%B7+Ghostty;AI-assisted+%E2%80%94+human+oversight+always" alt="Typing" />
 
